@@ -4,7 +4,8 @@ https://www.barrons.com/articles/state-population-gains-home-prices-surged-51640
 
 
 # Information
-
+## Startup Definition
+https://www.investopedia.com/terms/s/startup.asp
 
 
 # Research
