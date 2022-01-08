@@ -31,26 +31,26 @@ Successes metrics
 
 ## Timeline
 create a schedule for you group to follow to keep you on track and also help yourselves scope out your project.
-\n
-Week 2
-- Circle role
-    - gather and cleans data sets from Census, Barron and StartUpBlink. Start some analysis with example charts to be used on the website.
 
-- Triangle role    
-    - basic layout for website including nav bar, images, placeholders for graphs and charts
-    - Focus on main page display, dashboard layout
+- Week 2
+    - Circle role
+        - gather and cleans data sets from Census, Barron and StartUpBlink. Start some analysis with example charts to be used on the website.
 
-Week 3
-- Circle role
-    - Creation of Graphs and data set charts for dashboard
-        - Analysing features focusing on Cities within the United States. Business Environment, Population, Population Change YoY%, median age, median education, median Cost of Living, available schools
+    - Triangle role    
+        - basic layout for website including nav bar, images, placeholders for graphs and charts
+        - Focus on main page display, dashboard layout
 
-- Triangle role
-    - Section explaining the analysis page and section for "About Us"
-    - Graph selection and display, using this time to select the dashboard layout on the website and how we want the story to unfold. 
+    - Week 3
+        - Circle role
+            - Creation of Graphs and data set charts for dashboard
+                - Analysing features focusing on Cities within the United States. Business Environment, Population, Population Change YoY%, median age, median education, median Cost of Living, available schools
 
-Week 4 & 5
-- Putting it all together
-    - write overview documentation (readme) and 
-- host the static page in GitHub
-    - formatting or CSS adjustments for visual
+    - Triangle role
+        - Section explaining the analysis page and section for "About Us"
+        - Graph selection and display, using this time to select the dashboard layout on the website and how we want the story to unfold. 
+
+    - Week 4 & 5
+        - Putting it all together
+            - write overview documentation (readme) and 
+        - host the static page in GitHub
+            - formatting or CSS adjustments for visual
