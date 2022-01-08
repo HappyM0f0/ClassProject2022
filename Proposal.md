@@ -31,6 +31,7 @@ Successes metrics
 
 ## Timeline
 create a schedule for you group to follow to keep you on track and also help yourselves scope out your project.
+\n
 Week 2
 - Circle role
     - gather and cleans data sets from Census, Barron and StartUpBlink. Start some analysis with example charts to be used on the website.
