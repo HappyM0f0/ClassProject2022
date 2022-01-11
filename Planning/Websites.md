@@ -2,6 +2,9 @@
 ### Real Estate Listing Changes
 https://www.barrons.com/articles/state-population-gains-home-prices-surged-51640818157
 
+### Numbeo cost of living
+https://www.numbeo.com/cost-of-living/region_rankings_current.jsp?region=021
+
 
 # Information
 ### Startup Definition
