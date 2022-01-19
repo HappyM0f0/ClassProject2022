@@ -20,6 +20,7 @@ Use Tableau and SQL to transform and analyze the data sets. Create Static Charts
 smaller actions/steps to be taken. Make sure these can be broken down into issues.
 
 - Data set is viewable, sorts, and dynamically changes with selection.
+    - 
 - Dashboard is clean and provides information to the viewer
 - Analysis page contains information on how the analysis can assist the viewer
 
