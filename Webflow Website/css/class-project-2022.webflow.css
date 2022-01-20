@@ -1,0 +1,29 @@
+.body {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.section {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container {
+  margin-top: 152px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.image {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 0px;
+}
+
+.nav-menu {
+  -webkit-transition: background-color 200ms ease;
+  transition: background-color 200ms ease;
+}
