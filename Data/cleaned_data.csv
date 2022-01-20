@@ -19,7 +19,6 @@
 17,Detroit,1.19,3.8,93.2
 18,Houston,1.34,3.8,95.8
 19,Portland,1.38,3.8,113.0
-20,Portland,1.38,3.8,116.5
 21,Salt Lake City,0.77,3.19,105.9
 22,Charlotte,0.82,3.8,97.9
 23,Boulder,1.32,3.8,118.7
@@ -27,7 +26,6 @@
 25,Nashville,0.76,3.8,100.1
 26,Pittsburgh,0.88,3.8,93.1
 28,Columbus,0.76,3.8,88.5
-29,Columbus,0.76,3.8,91.5
 30,Provo,0.42,3.8,100.9
 31,Tampa,0.83,3.8,101.4
 32,Sacramento,0.5,3.8,120.3
@@ -37,48 +35,39 @@
 36,Kansas City,0.59,3.8,91.6
 37,Baltimore,0.92,3.8,107.0
 38,Columbia,0.23,3.8,89.8
-39,Columbia,0.23,3.8,91.9
 40,Orlando,0.84,3.8,101.4
 41,Santa Cruz,0.23,3.8,163.9
 42,San Antonio,0.48,3.8,92.7
 43,New Orleans,0.35,3.8,92.4
 44,Burlington,0.26,3.8,91.8
-45,Burlington,0.26,3.8,112.8
 46,Indianapolis,0.52,3.8,90.2
 47,Albuquerque,0.2,3.58,92.9
 48,St. Louis,0.46,3.36,89.6
 49,Buffalo,0.2,3.28,97.3
 50,Bend,0.1,3.21,115.9
 51,Cleveland,0.51,3.18,89.5
-52,Cleveland,0.51,3.18,90.0
 53,Louisville,0.27,2.7,91.6
 54,Lexington,0.18,2.52,91.1
 55,Milwaukee,0.4,2.37,93.8
 56,Jacksonville,0.3,2.3,99.0
-57,Jacksonville,0.3,2.3,91.7
 58,New Haven,0.16,2.1,107.7
 59,Omaha,0.22,2.04,92.9
 60,Richmond,0.33,1.95,84.2
-61,Richmond,0.33,1.95,95.0
 62,Boise City,0.13,1.74,100.3
 63,Charleston,0.28,1.62,83.9
-64,Charleston,0.28,1.62,101.7
 66,Hartford,0.22,1.55,104.8
 67,Birmingham,0.23,1.51,90.7
 68,Lafayette,0.18,1.46,89.6
-69,Lafayette,0.18,1.46,88.7
 70,Fort Collins,0.17,1.43,109.2
 71,Colorado Springs,0.21,1.39,102.2
 72,Chattanooga,0.23,1.34,91.2
 73,Providence,0.21,1.34,111.5
 74,Rochester,0.16,1.31,97.3
-75,Rochester,0.16,1.31,96.6
 76,Oklahoma City,0.23,1.31,87.3
 77,Fresno,0.06,1.28,105.9
 78,Tucson,0.19,1.17,97.7
 79,Grand Rapids,0.21,1.15,93.7
 80,Albany,0.12,1.09,87.3
-81,Albany,0.12,1.09,102.8
 82,Little Rock,0.17,1.08,88.0
 83,Sarasota,0.19,1.06,104.4
 84,Honolulu,0.22,0.99,158.0
@@ -89,16 +78,12 @@
 89,Memphis,0.16,0.9,88.2
 90,Lincoln,0.11,0.81,94.7
 91,Bloomington,0.07,0.77,92.4
-92,Bloomington,0.07,0.77,89.0
 93,Knoxville,0.11,0.76,91.6
 94,Dover,0.08,0.76,101.3
 95,Worcester,0.06,0.72,113.2
 96,Greenville,0.12,0.68,89.8
-97,Greenville,0.12,0.68,95.0
 98,Fayetteville,0.1,0.68,89.5
-99,Fayetteville,0.1,0.68,90.4
 100,Springfield,0.09,0.67,87.5
-101,Springfield,0.09,0.67,93.6
 102,Syracuse,0.14,0.67,95.1
 104,Corvallis,0.09,0.65,110.6
 105,Spokane,0.1,0.64,100.4
@@ -114,18 +99,15 @@
 118,Savannah,0.1,0.5,97.3
 119,Winston-Salem,0.08,0.5,91.2
 120,Gainesville,0.07,0.5,97.3
-121,Gainesville,0.07,0.5,97.0
 123,Medford,0.02,0.47,107.5
 124,Santa Fe,0.06,0.46,105.1
 125,Santa Rosa,0.08,0.46,141.7
 126,Jackson,0.07,0.46,87.4
-127,Jackson,0.07,0.46,86.5
 128,Huntington,0.07,0.44,84.3
 129,Manchester,0.05,0.44,109.6
 130,San Luis Obispo,0.06,0.43,136.1
 131,Missoula,0.05,0.43,103.4
 132,Midland,0.03,0.42,87.0
-133,Midland,0.03,0.42,97.8
 135,Harrisonburg,0.02,0.41,95.5
 137,Iowa City,0.05,0.4,93.5
 139,Portsmouth,0.05,0.39,84.7
@@ -152,7 +134,6 @@
 171,Champaign,0.04,0.27,89.0
 172,College Station,0.04,0.26,92.3
 173,Danville,0.02,0.26,83.9
-174,Danville,0.02,0.26,87.1
 175,Lebanon,0.01,0.26,95.4
 178,Ames,0.03,0.25,91.5
 181,Blacksburg,0.03,0.25,94.5
@@ -178,7 +159,6 @@
 215,Kalamazoo,0.01,0.17,89.3
 217,Appleton,0.02,0.17,90.7
 219,Athens,0.02,0.17,88.5
-220,Athens,0.02,0.17,94.0
 222,Idaho Falls,0.02,0.17,91.7
 224,Ocala,0.02,0.17,94.5
 226,Topeka,0.02,0.17,85.6
@@ -194,7 +174,6 @@
 241,Peoria,0.01,0.15,86.7
 242,Las Cruces,0.01,0.15,88.8
 243,Huntsville,0.02,0.15,91.3
-244,Huntsville,0.02,0.15,91.2
 246,Shreveport,0.02,0.15,85.8
 249,Grand Forks,0.02,0.15,90.7
 251,Billings,0.02,0.15,95.7
@@ -204,13 +183,10 @@
 261,Roanoke,0.01,0.14,94.1
 262,Bellingham,0.02,0.14,111.6
 263,Augusta,0.02,0.14,91.6
-264,Augusta,0.02,0.14,100.0
 267,Binghamton,0.01,0.14,93.3
 270,Monroe,0.01,0.13,86.5
-271,Monroe,0.01,0.13,90.5
 272,Montgomery,0.01,0.13,88.5
 273,Auburn,0.01,0.13,93.7
-274,Auburn,0.01,0.13,91.9
 276,Bangor,0.02,0.13,98.0
 278,Great Falls,0.01,0.12,91.1
 279,Shelton,0.01,0.12,109.6
