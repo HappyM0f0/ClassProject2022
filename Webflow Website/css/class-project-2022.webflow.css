@@ -18,12 +18,36 @@
 }
 
 .image {
+  position: relative;
+  left: auto;
+  display: block;
   margin-right: auto;
   margin-left: auto;
   padding-right: 0px;
+  text-align: center;
+  -o-object-fit: cover;
+  object-fit: cover;
 }
 
 .nav-menu {
+  margin-right: 33px;
+  padding-right: 59px;
   -webkit-transition: background-color 200ms ease;
   transition: background-color 200ms ease;
+}
+
+.logo {
+  margin-left: 152px;
+}
+
+.section-2 {
+  background-color: rgba(203, 105, 0, 0.9);
+}
+
+@media screen and (max-width: 991px) {
+  .brand {
+    margin-bottom: 9px;
+    margin-left: -149px;
+    padding-left: 0px;
+  }
 }
