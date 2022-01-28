@@ -1433,7 +1433,7 @@ var data = [
 	},
 	{
 	  City: "Washington",
-	  State: "Illinois",
+	  State: "DC",
 	  Quantity_Score: 3.47,
 	  Business_Score: 3.8,
 	  Cost_Of_Living_Index: 120.1,

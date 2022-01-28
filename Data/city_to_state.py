@@ -2121,7 +2121,7 @@ city_to_state_dict = {"East Rancho Dominguez": "California",
                       "Covina": "California",
                       "North Canton": "Ohio",
                       "Saint Andrews": "South Carolina",
-                      "Washington": "Illinois",
+                    #   "Washington": "Illinois",
                       "Johnston": "Iowa",
                       "Yonkers": "New York",
                       "Perris": "California",
@@ -2372,7 +2372,8 @@ city_to_state_dict = {"East Rancho Dominguez": "California",
                       "Hartford":"Connecticut",
                       "New Haven":"Connecticut",
                       "Shelton":"Connecticut",
-                      "New York":"New York"
+                      "New York":"New York",
+                      "Washington":"DC"
 
                       
                       }
