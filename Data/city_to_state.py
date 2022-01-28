@@ -2358,4 +2358,21 @@ city_to_state_dict = {"East Rancho Dominguez": "California",
                       "West Allis": "Wisconsin",
                       "Springboro": "Ohio",
                       "North Druid Hills": "Georgia",
-                      "Durant": "Oklahoma"}
+                      "Durant": "Oklahoma",
+                      "San Antonio": "Texas",
+                      "Tyler":"Texas",
+                      "Lynchburg":"Virginia",
+                      "Roanoke":"Virginia",
+                      "Blacksburg":"Virginia",
+                      "Harrisonburg":"Virginia",
+                      "Whitewater":"Wisconsin",
+                      "Virginia Beach":"Virginia",
+                      "Traverse City":"Michigan",
+                      "Charlottesville":"Virginia",
+                      "Hartford":"Connecticut",
+                      "New Haven":"Connecticut",
+                      "Shelton":"Connecticut",
+                      "New York":"New York"
+
+                      
+                      }
