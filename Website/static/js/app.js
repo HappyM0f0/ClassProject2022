@@ -29,17 +29,16 @@ var filters = {};
 // 3. Use this function to update the filters. 
 function updateFilters() {
   
-
     // 4a. Save the element that was changed as a variable.
     var changedElement = d3.select(this);
 
     // 4b. Save the value that was changed as a variable.
     var elementValue = changedElement.property("value");
-    // console.log("this is the value in updateFilter: " + elementValue); // for debugging
+    console.log("this is the value in updateFilter: " + elementValue); // for debugging
     
     // 4c. Save the id of the filter that was changed as a variable.
     var filterID = changedElement.attr("id");
-    // console.log("this is the id in updateFilter: " + filterID); // for debugging
+    console.log("this is the id in updateFilter: " + filterID); // for debugging
     
     // 5. If a filter value was entered then add that filterId and value
     // to the filters list. Otherwise, clear that filter from the filters object.
@@ -51,10 +50,9 @@ function updateFilters() {
     }
   
     // 6. Call function to apply all filters and rebuild the table
-    // console.log(filters);  // for debugging
+    console.log(filters);  // for debugging
     filterTable(filters);
   }
-  
 
   // 7. Use this function to filter the table when data is entered.
   function filterTable(filters) {
@@ -64,21 +62,21 @@ function updateFilters() {
   
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
-    Object.entries(filters).forEach(function([filteredID,filteredValue]){
+    Object.entries(filters).forEach(function([filterID,filteredValue]){
       // console.log([filterID,elementValue]); // for debugging
       // console.log(elementValue); // for debugging
     
     if (filteredValue) {
 
-      filteredData = filteredData.filter(row => row.datetime === filteredValue ||
-        row.city === filteredValue ||
-        row.state === filteredValue ||
-        row.country === filteredValue ||
-        row.shape === filteredValue
+      filteredData = filteredData.filter(row => 
+        row.City === filteredValue ||
+        // row.state === filteredValue ||
+        // row.country === filteredValue ||
+        row.Bucket == filteredValue
         );
       
     }
-    // console.log(filteredData); // for debugging
+    console.log(filteredData); // for debugging
   })
    
     // 10. Finally, rebuild the table using the filtered data

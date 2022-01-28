@@ -22,7 +22,7 @@
     <div class="wrapper">
         <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
             <a class="navbar-brand" href="index.html">US Cities</a>
-            <a class="navbar-brand" href="index.html">Analysis</a>
+            <a class="navbar-brand" href="Analysis.html">Analysis</a>
         </nav>
     </div>
     <div class="jumbotron">
@@ -65,40 +65,40 @@
                 <form class="bg-dark">
                     <p>Filter Search</p>
                     <ul class="list-group bg-dark">
-                        <li class="list-group-item bg-dark">
+                        <!-- <li class="list-group-item bg-dark">
                             <label for="date">Enter Date</label><br>
                             <input type="text" placeholder="1/10/2010" id="datetime" />
-                        </li>
+                        </li> -->
                         <li class="list-group-item bg-dark">
                             <label for="city">Enter city</label><br>
                             <input type="text" placeholder="round rock" id="city" />
                         </li>
-                        <li class="list-group-item bg-dark">
+                        <!-- <li class="list-group-item bg-dark">
                             <label for="state">Enter state</label><br>
                             <input type="text" placeholder="tx" id="state" />
-                        </li>
-                        <li class="list-group-item bg-dark">
+                        </li> -->
+                        <!-- <li class="list-group-item bg-dark">
                             <label for="country">Enter country</label><br>
                             <input type="text" placeholder="us" id="country" />
-                        </li>
+                        </li> -->
                         <li class="list-group-item bg-dark">
-                            <label for="shape">Enter shape</label><br>
-                            <input type="text" placeholder="light" id="shape" />
+                            <label for="Bucket">Enter Bucket</label><br>
+                            <input type="number" placeholder="1-5" id="Bucket" min="1" max="5" />
                         </li>
                     </ul>
                 </form>
             </div>
             <div class="col-md-9">
-                <table class="table table-striped">
+                <table id = "myTable2" class="table table-striped">
                   <thead>
                     <tr>
-                        <th>Date</th>
-                        <th>City</th>
-                        <th>State</th>
-                        <th>Country</th>
-                        <th>Shape</th>
-                        <th>Duration</th>
-                        <th>Comments</th>
+                        <th onclick="sortTable(0)">City</th>
+                        <th onclick="sortTable(1)">Quantity_Score</th>
+                        <th onclick="sortTable(2)">Business_Score</th>
+                        <th onclick="sortTable(3)">Cost_Of_Living_Index</th>
+                        <th onclick="sortTable(4)">Bucket</th>
+                        <!-- <th>Duration</th>
+                        <th>Comments</th> -->
                     </tr>
                   </thead>
                   <tbody></tbody>
@@ -116,5 +116,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
     <script src="static/js/data.js"></script>
     <script src="static/js/app.js"></script>
+    <script src="static/js/sortTable.js"></script>
 </body>
 </html>
