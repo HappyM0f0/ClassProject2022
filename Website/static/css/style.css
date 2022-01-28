@@ -3,7 +3,9 @@ body {
   }
 
 .jumbotron {
-    background-image: url('../img/nasa.jpg');
-    background-size: 100% 100%;
+    background-image: url('../img/austin-skyline-in-the-evening-1.jpeg');
+    /* background-size: 100% 100%; */
+    background-size: 100%;
+    min-height: 300px;
     text-align: center;
   }

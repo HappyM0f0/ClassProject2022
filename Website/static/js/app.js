@@ -69,8 +69,8 @@ function updateFilters() {
     if (filteredValue) {
 
       filteredData = filteredData.filter(row => 
-        row.City === filteredValue ||
-        // row.state === filteredValue ||
+        row.City == filteredValue ||
+        row.State == filteredValue ||
         // row.country === filteredValue ||
         row.Bucket == filteredValue
         );
