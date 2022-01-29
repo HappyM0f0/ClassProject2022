@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistics in JS</title>
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="static\css\style.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+
+</head>
+<body class="bg-dark">
+    <div class="wrapper">
+        <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+            <a class="navbar-brand" href="index.html">US Cities</a>
+            <a class="navbar-brand" href="Analysis.html">Analysis</a>
+            
+        </nav>
+    </div>
+    <div class="jumbotron">
+        <h1 class="display-4">US Cities for Startups</h1>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4">
+                <h3>Which cities support Startups<br>
+                <small><a href="https://www.startupblink.com/">Startup Blink dataset</a></small><br>
+                <small><a href="https://advisorsmith.com/data/coli/">AdvisorSmith dataset</a></small></h3>
+            </div>
+            <div class="col-md-8">
+                <p>
+                    We define a startup as any business that applies an 
+                    innovative solution which validates a scalable economical 
+                    model.<br><br>
+                    The innovation can be a product or service, process, or business model. Since this 
+                    definition is not quantitative, our team manually evaluates each candidate registering on 
+                    the startup map. Entities without a unique innovation, such as non technological service 
+                    providers, digital forums built on white-labeled existing technology, and local directories 
+                    such as simple lists of real estate or jobs listings will not be taken into consideration for the 
+                    Index. <br><br>
+                    We do not consider the age of the entity or the size of its team as relevant criteria for 
+                    determining startup innovation. However, companies which went through an IPO and 
+                    are publicly traded, and startups which “exited”, or received investments in total valuation 
+                    above $1 Billion US, will not be categorized as startups but will still influence the rankings 
+                    as a special entity.<br><br>
+                    Quantity Range: 0.01 - 5.5<br><br>
+                    Business Score Range: 0.1 - 3.8<br><br>
+                    Included is a bucket list for Cost of Living percentage:
+                    <br><br>Bucket 1: 80 - 100,
+                    Bucket 2: 100 - 120, 
+                    Bucket 3: 120 - 140, 
+                    Bucket 4: 140 - 160, 
+                    Bucket 5: 160 - 180, 
+                    <br><br>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+                <form class="bg-dark">
+                    <p>Filter Search</p>
+                    <ul class="list-group bg-dark">
+                        <!-- <li class="list-group-item bg-dark">
+                            <label for="date">Enter Date</label><br>
+                            <input type="text" placeholder="1/10/2010" id="datetime" />
+                        </li> -->
+                        <li class="list-group-item bg-dark">
+                            <label for="city">Enter city</label><br>
+                            <input type="text" placeholder="Austin" id="city" />
+                        </li>
+                        <li class="list-group-item bg-dark">
+                            <label for="state">Enter state</label><br>
+                            <input type="text" placeholder="Texas" id="state" />
+                        </li>
+                        <!-- <li class="list-group-item bg-dark">
+                            <label for="country">Enter country</label><br>
+                            <input type="text" placeholder="us" id="country" />
+                        </li> -->
+                        <li class="list-group-item bg-dark">
+                            <label for="Bucket">Enter Bucket</label><br>
+                            <input type="number" placeholder="1-5" id="Bucket" min="1" max="5" />
+                        </li>
+                    </ul>
+                </form>
+            </div>
+            <div class="col-md-9">
+                <table id = "myTable2" class="table table-striped">
+                  <thead>
+                    <tr>
+                        <th onclick="sortTable(0)">City</th>
+                        <th onclick="sortTable(1)">State</th>
+                        <th onclick="sortTable(2)">Quantity_Score</th>
+                        <th onclick="sortTable(3)">Business_Score</th>
+                        <th onclick="sortTable(4)">Cost_Of_Living_Index</th>
+                        <th onclick="sortTable(5)">Bucket</th>
+                        <!-- <th>Duration</th>
+                        <th>Comments</th> -->
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+        </div>
+    </div>
+    <!-- Footer -->
+    <div class="copyright py-4 text-center text-white">
+        <div class="container">
+            <small>Copyright &copy; Richard Doranski 2021-2022</small>
+        </div>
+    </div>
+    <!-- Footer -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="static/js/data.js"></script>
+    <script src="static/js/app.js"></script>
+    <script src="static/js/sortTable.js"></script>
+</body>
+</html>
