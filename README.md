@@ -35,8 +35,11 @@ This refers to the environment in which our business is functioning in such as i
   
 In the below example business score and cost of living are compared between various cities across the United States. Our bucket system reveals the highest cost of living cities are mostly bigger metropolitian cities, and some of the lower cost of living is some of the smaller cities and metro areas. 
 
- ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/LIST%20OF%20CITIES%20BASED%20ON%20BUSINESS%20SCOE.PNG?raw=true)
+  ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/BUSINESS%20SCORE%20AND%20COST%20OF%20LIVING.PNG?raw=true)
+
+
   
 In the below example we see that San Francisco has a business score of 3.80 and so do many of the leading cities, versus various quantity scores, quantity score in this case is higher for SF but the ease of doing business remains the same in other cities with a lower quantity score such as Austin or Dallas. 
-  
-  ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/BUSINESS%20SCORE%20AND%20COST%20OF%20LIVING.PNG?raw=true)
+ 
+ ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/LIST%20OF%20CITIES%20BASED%20ON%20BUSINESS%20SCOE.PNG?raw=true)
+
