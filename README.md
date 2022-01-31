@@ -32,6 +32,8 @@ This refers to the environment in which our business is functioning in such as i
   **Number of patents per capita
   
   **Level of English proficiency
+  
+  
 In the below example we see that San Francisco has a business score of 3.80 and so do many of the leading cities, versus various quantity scores, quantity score in this case is higher for SF but the ease of doing business remains the same in other cities with a lower quantity score such as Austin or Dallas. 
   
   ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/LIST%20OF%20CITIES%20BASED%20ON%20BUSINESS%20SCOE.PNG?raw=true)
