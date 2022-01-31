@@ -43,3 +43,7 @@ In the below example we see that San Francisco has a business score of 3.80 and 
  
  ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/LIST%20OF%20CITIES%20BASED%20ON%20BUSINESS%20SCOE.PNG?raw=true)
 
+This below example shows us that busines and quantity scores by buckets and we see more of an alignment between the business score and quantity score in the lower buckets versus higher buckets, this is turn shows us that the higher bucketed cities are not necessarily the most qualified cities for doing business. Some of lower bucketed cities can provide more ease of doing business with more of an alignment between business score and quantity scores.
+
+![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/BUSINESS%20%26QUANTITY%20SCORES%20BY%20BUCKET.PNG?raw=true)
+
