@@ -6,27 +6,11 @@ Title: US Start up Ecosystem Index in Relation to Cost of Living.
 We want to ask what cities within the United States would provide the best environment for Start-Ups and young business owners-using data from StartupBlink, the US Census and data from Barrons. This data will proivde actionable insight for individuals creating and starting their business. Measurements include the general working population, education, median household income, business environment and local real estate listings. The final anaylsis will reveal how the business environment impacts the business, also how the availaibly of labor and the typical cost of living adjustments impact the businesses. 
 
 # Bucketed Data
-We used bucketed data to display our data, this helped us display our data more cleanly
+We used python code to create bucketed, this helped us display our data more cleanly
 ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/BUCKETED%20DATA%20CODE.PNG?raw=true)
 
  
-# Business Environment:
-This refers to the environment in which our business is functioning in such as infrastructure, business environment, ecocsystem critical mass and the ability to freely operate as a startup. The business environment score focuses on parameters that regulate policies, legislation and infrastructure. Among the elements taken into account are
-  
-  **Ease of doing business
-  
-  **Internet Speed
-  
-  **Internet Freedom
-  
-  **R&D Investment
-  
-  **Avaliability of technological services i.e. payment portals, ride sharing apps and cryptocurrency
-  
-  **Number of patents per capita
-  
-  **Level of English proficiency
-  
+
   # Cost of Living Index
   The cost of living index gives us insight into housing affordability, expenses, health care costs, and overall standard of living. As a business you are able to use the cost of living index information 
   
