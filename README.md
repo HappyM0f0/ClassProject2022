@@ -33,6 +33,9 @@ This refers to the environment in which our business is functioning in such as i
   
   **Level of English proficiency
   
+  # Cost of Living Index
+  The cost of living index gives us insight into housing affordability, expenses, health care costs, and overall standard of living. As a business you are able to use the cost of living index information 
+  
 In the below example business score and cost of living are compared between various cities across the United States. Our bucket system reveals the highest cost of living cities are mostly bigger metropolitian cities, and some of the lower cost of living is some of the smaller cities and metro areas. 
 
   ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/BUSINESS%20SCORE%20AND%20COST%20OF%20LIVING.PNG?raw=true)
@@ -46,4 +49,5 @@ In the below example we see that San Francisco has a business score of 3.80 and 
 This below example shows us that busines and quantity scores by buckets and we see more of an alignment between the business score and quantity score in the lower buckets versus higher buckets, this is turn shows us that the higher bucketed cities are not necessarily the most qualified cities for doing business. Some of lower bucketed cities can provide more ease of doing business with more of an alignment between business score and quantity scores.
 
 ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/BUSINESS%20%26QUANTITY%20SCORES%20BY%20BUCKET.PNG?raw=true)
+
 
