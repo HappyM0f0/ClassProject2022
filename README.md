@@ -5,16 +5,10 @@ Title: US Start up Ecosystem Index in Relation to Cost of Living.
 # Project Proposal: 
 We want to ask what cities within the United States would provide the best environment for Start-Ups and young business owners-using data from StartupBlink, the US Census and data from Barrons. This data will proivde actionable insight for individuals creating and starting their business. Measurements include the general working population, education, median household income, business environment and local real estate listings. The final anaylsis will reveal how the business environment impacts the business, also how the availaibly of labor and the typical cost of living adjustments impact the businesses. 
 
-# Quantity Score:
-Qauntity score checks the activity levele of an ecosystem through it's stakeholders and other signals. The elements takesn into account for this calcuation of the quantity score are
- 
- **Number of Startups
- 
- **Number of Coworking Spaces
-  
- **Number of Accelerators
-  
- **Number of Startup related Meetups
+# Bucketed Data
+We used bucketed data to display our data, this helped us display our data more cleanly
+
+
  
 # Business Environment:
 This refers to the environment in which our business is functioning in such as infrastructure, business environment, ecocsystem critical mass and the ability to freely operate as a startup. The business environment score focuses on parameters that regulate policies, legislation and infrastructure. Among the elements taken into account are
