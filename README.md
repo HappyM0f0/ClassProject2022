@@ -24,7 +24,7 @@ In the below example business score and cost of living are compared between vari
 
   
 
- # Quantitly Score/Line Graph
+ # Quantity Score/Line Graph
 
 This below example shows us that busines and quantity scores by buckets and we see more of an alignment between the business score and quantity score in the lower buckets versus higher buckets, this is turn shows us that the higher bucketed cities are not necessarily the most qualified cities for doing business. Some of lower bucketed cities can provide more ease of doing business with more of an alignment between business score and quantity scores.
 
