@@ -14,7 +14,7 @@ We used python code to create buckets for our data, this helped us display our d
  ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/LIST%20OF%20CITIES%20BASED%20ON%20BUSINESS%20SCOE.PNG?raw=true)
 
 
-  # Cost of Living Index/ Bar Chart
+  # Cost of Living Index- Bar Chart
   The cost of living index gives us insight into housing affordability, expenses, health care costs, and overall standard of living. As a business you are able to use the cost of living index information to help price their goods and services and also how much they should be paying their employees.
   
 In the below example business score and cost of living are compared between various cities across the United States. Our bucket system reveals the highest cost of living cities are mostly bigger metropolitian cities, and some of the lower cost of living is some of the smaller cities and metro areas. 
@@ -24,7 +24,7 @@ In the below example business score and cost of living are compared between vari
 
   
 
- # Quantity Score/Line Graph
+ # Quantity Score/Business Score-Bar Chart
 
 This below example shows us that busines and quantity scores by buckets and we see more of an alignment between the business score and quantity score in the lower buckets versus higher buckets, this is turn shows us that the higher bucketed cities are not necessarily the most qualified cities for doing business. Some of lower bucketed cities can provide more ease of doing business with more of an alignment between business score and quantity scores.
 
