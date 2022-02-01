@@ -7,7 +7,7 @@ We want to ask what cities within the United States would provide the best envir
 
 # Bucketed Data
 We used bucketed data to display our data, this helped us display our data more cleanly
-
+![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/BUCKETED%20DATA%20CODE.PNG?raw=true)
 
  
 # Business Environment:
