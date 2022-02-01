@@ -22,10 +22,11 @@ In the below example business score and cost of living are compared between vari
   ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/BUSINESS%20SCORE%20AND%20COST%20OF%20LIVING.PNG?raw=true)
 
 
-  
-
  # Quantity Score/Business Score-Bar Chart
 
 This below example shows us that busines and quantity scores by buckets and we see more of an alignment between the business score and quantity score in the lower buckets versus higher buckets, this is turn shows us that the higher bucketed cities are not necessarily the most qualified cities for doing business. Some of lower bucketed cities can provide more ease of doing business with more of an alignment between business score and quantity scores.
 
 ![GitHub Graph](https://github.com/HappyM0f0/ClassProject2022/blob/main/BUSINESS%20%26QUANTITY%20SCORES%20BY%20BUCKET.PNG?raw=true)
+
+# Results
+Our data shows us that some of the cities that had the highest bucketed business scores cities were not necessarily the best places to do business. We can find other cities based on our bucketed data that show us better cost of living and comparable business scores. High quantity scored bucketed cities might lead to saturation in the workplace of workers with similar skill sets, in order to gain diversity looking at lower bucketed cities with lower cost of living but business scores that are similar to the higher buckets maybe advantageous for potential of growth of a start up. 
