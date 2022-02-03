@@ -7,6 +7,9 @@ https://www.numbeo.com/cost-of-living/region_rankings_current.jsp?region=021
 
 
 # Information
+### How to Embed Tableau into the Website
+https://www.zuar.com/blog/embedded-analytics-how-to-embed-tableau-dashboards-into-a-web-page/
+
 ### Startup Definition
 https://www.investopedia.com/terms/s/startup.asp
 

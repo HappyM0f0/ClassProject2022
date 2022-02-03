@@ -1,0 +1,196 @@
+,City,State,quantity score,business score,Cost of Living Index,Bucket
+0,Charleston,South Carolina,0.28,1.62,83.9,1
+1,Danville,Illinois,0.02,0.26,83.9,1
+2,Richmond,Kentucky,0.33,1.95,84.2,1
+3,Huntington,New York,0.07,0.44,84.3,1
+4,Portsmouth,New Hampshire,0.05,0.39,84.7,1
+5,Joplin,Missouri,0.01,0.17,85.2,1
+6,Topeka,Kansas,0.02,0.17,85.6,1
+7,Flint,Michigan,0.02,0.14,85.7,1
+8,Shreveport,Louisiana,0.02,0.15,85.8,1
+9,Roswell,Georgia,0.05,0.3,86.3,1
+10,Monroe,Washington,0.01,0.13,86.5,1
+11,Tulsa,Oklahoma,0.1,0.53,86.7,1
+12,Peoria,Arizona,0.01,0.15,86.7,1
+13,Wichita,Kansas,0.11,0.58,86.8,1
+14,Fort Wayne,Indiana,0.02,0.16,86.8,1
+15,Gulfport,Mississippi,0.01,0.1,86.8,1
+16,Midland,Texas,0.03,0.42,87.0,1
+17,Bowling Green,Ohio,0.01,0.12,87.0,1
+18,South Bend,Indiana,0.06,0.32,87.2,1
+19,Oklahoma City,Oklahoma,0.23,1.31,87.3,1
+20,Albany,New York,0.12,1.09,87.3,1
+21,Morristown,New Jersey,0.1,0.61,87.3,1
+22,Jackson,Michigan,0.07,0.46,87.4,1
+23,Springfield,Massachusetts,0.09,0.67,87.5,1
+24,Toledo,Ohio,0.02,0.17,87.5,1
+25,Michigan City,Indiana,0.05,0.3,87.8,1
+26,Little Rock,Arkansas,0.17,1.08,88.0,1
+27,Cedar Rapids,Iowa,0.05,0.29,88.1,1
+28,Memphis,Tennessee,0.16,0.9,88.2,1
+29,Canton,Georgia,0.02,0.18,88.2,1
+30,Mobile,Alabama,0.03,0.19,88.3,1
+31,Dayton,Ohio,0.11,0.57,88.4,1
+32,Columbus,Georgia,0.76,3.8,88.5,1
+33,Athens,Georgia,0.02,0.17,88.5,1
+34,Montgomery,Alabama,0.01,0.13,88.5,1
+35,El Paso,Texas,0.03,0.16,88.6,1
+36,Lansing,Michigan,0.05,0.33,88.7,1
+37,Lubbock,Texas,0.02,0.16,88.8,1
+38,Las Cruces,New Mexico,0.01,0.15,88.8,1
+39,Champaign,Illinois,0.04,0.27,89.0,1
+40,Kalamazoo,Michigan,0.01,0.17,89.3,1
+41,Akron,Ohio,0.05,0.35,89.4,1
+42,Cleveland,Ohio,0.51,3.18,89.5,1
+43,Fayetteville,Georgia,0.1,0.68,89.5,1
+44,St. Louis,Missouri,0.46,3.36,89.6,1
+45,Lafayette,Louisiana,0.18,1.46,89.6,1
+46,Columbia,Maryland,0.23,3.8,89.8,1
+47,Greenville,Texas,0.12,0.68,89.8,1
+48,Janesville,Wisconsin,0.01,0.14,89.8,1
+49,Indianapolis,Indiana,0.52,3.8,90.2,1
+50,Appleton,Wisconsin,0.02,0.17,90.7,1
+51,Grand Forks,North Dakota,0.02,0.15,90.7,1
+52,Greensboro,North Carolina,0.04,0.35,91.0,1
+53,Lexington,Kentucky,0.18,2.52,91.1,1
+54,Baton Rouge,Louisiana,0.04,0.29,91.1,1
+55,Great Falls,Montana,0.01,0.12,91.1,1
+56,Chattanooga,Tennessee,0.23,1.34,91.2,1
+57,Winston-Salem,North Carolina,0.08,0.5,91.2,1
+58,Scranton,Pennsylvania,0.02,0.19,91.3,1
+59,Huntsville,Alabama,0.02,0.15,91.3,1
+60,Fargo,North Dakota,0.02,0.23,91.4,1
+61,Green Bay,Wisconsin,0.03,0.21,91.4,1
+62,Ames,Iowa,0.03,0.25,91.5,1
+63,Kansas City,Kansas,0.59,3.8,91.6,1
+64,Louisville,Colorado,0.27,2.7,91.6,1
+65,Knoxville,Tennessee,0.11,0.76,91.6,1
+66,Lawrence,Massachusetts,0.01,0.16,91.6,1
+67,Augusta,Georgia,0.02,0.14,91.6,1
+68,Des Moines,Iowa,0.17,0.9,91.7,1
+69,Idaho Falls,Idaho,0.02,0.17,91.7,1
+70,Burlington,Kentucky,0.26,3.8,91.8,1
+71,Erie,Colorado,0.03,0.21,91.8,1
+72,College Station,Texas,0.04,0.26,92.3,1
+73,Cincinnati,Ohio,0.5,3.8,92.4,1
+74,New Orleans,Louisiana,0.35,3.8,92.4,1
+75,Bloomington,Indiana,0.07,0.77,92.4,1
+76,San Antonio,Texas,0.48,3.8,92.7,1
+77,Sioux Falls,South Dakota,0.04,0.33,92.8,1
+78,Tyler,Texas,0.03,0.22,92.8,1
+79,Albuquerque,New Mexico,0.2,3.58,92.9,1
+80,Omaha,Nebraska,0.22,2.04,92.9,1
+81,Pittsburgh,Pennsylvania,0.88,3.8,93.1,1
+82,Detroit,Michigan,1.19,3.8,93.2,1
+83,Duluth,Minnesota,0.04,0.27,93.2,1
+84,Corpus Christi,Texas,0.01,0.19,93.3,1
+85,Binghamton,New York,0.01,0.14,93.3,1
+86,Iowa City,Iowa,0.05,0.4,93.5,1
+87,Lynchburg,Virginia,0.01,0.1,93.6,1
+88,Grand Rapids,Michigan,0.21,1.15,93.7,1
+89,Auburn,Massachusetts,0.01,0.13,93.7,1
+90,Milwaukee,Wisconsin,0.4,2.37,93.8,1
+91,Roanoke,Virginia,0.01,0.14,94.1,1
+92,Brunswick,Georgia,0.02,0.19,94.4,1
+93,Blacksburg,Virginia,0.03,0.25,94.5,1
+94,Ocala,Florida,0.02,0.17,94.5,1
+95,Lincoln,Nebraska,0.11,0.81,94.7,1
+96,Myrtle Beach,South Carolina,0.02,0.21,94.7,1
+97,Syracuse,New York,0.14,0.67,95.1,1
+98,Lebanon,Tennessee,0.01,0.26,95.4,1
+99,Harrisonburg,Virginia,0.02,0.41,95.5,1
+100,Billings,Montana,0.02,0.15,95.7,1
+101,Houston,Texas,1.34,3.8,95.8,1
+102,Harrisburg,Pennsylvania,0.06,0.36,95.8,1
+103,Reading,Massachusetts,0.03,0.16,96.0,1
+104,Lakeland,Florida,0.02,0.24,96.4,1
+105,Tallahassee,Florida,0.03,0.22,96.4,1
+106,Cheyenne,Wyoming,0.04,0.38,96.9,1
+107,Winchester,Kentucky,0.01,0.12,97.2,1
+108,Buffalo,Minnesota,0.2,3.28,97.3,1
+109,Rochester,New York,0.16,1.31,97.3,1
+110,Savannah,Georgia,0.1,0.5,97.3,1
+111,Gainesville,Texas,0.07,0.5,97.3,1
+112,Tucson,Arizona,0.19,1.17,97.7,1
+113,Whitewater,Wisconsin,0.03,0.18,97.7,1
+114,Charlotte,North Carolina,0.82,3.8,97.9,1
+115,Pensacola,Florida,0.04,0.28,97.9,1
+116,Bangor,Maine,0.02,0.13,98.0,1
+117,Grand Junction,Colorado,0.02,0.23,98.1,1
+118,Dallas,Texas,2.9,3.8,98.5,1
+119,Allentown,Pennsylvania,0.02,0.19,98.9,1
+120,Wilmington,North Carolina,0.31,3.8,99.0,1
+121,Jacksonville,Arkansas,0.3,2.3,99.0,1
+122,Virginia Beach,Virginia,0.2,0.98,99.0,1
+123,Madison,New Jersey,0.69,3.8,99.5,1
+124,Lancaster,Ohio,0.03,0.33,99.5,1
+125,Traverse City,Michigan,0.06,0.35,99.6,1
+126,Raleigh,North Carolina,1.09,3.58,99.7,1
+127,State College,Pennsylvania,0.04,0.28,99.8,1
+128,Chicago,Illinois,4.37,3.8,100.1,2
+129,Nashville,Tennessee,0.76,3.8,100.1,2
+130,Atlanta,Georgia,2.59,3.8,100.3,2
+131,Spokane,Washington,0.1,0.64,100.4,2
+132,Las Vegas,Nevada,1.01,3.8,100.7,2
+133,Provo,Utah,0.42,3.8,100.9,2
+134,Dover,Delaware,0.08,0.76,101.3,2
+135,Tampa,Florida,0.83,3.8,101.4,2
+136,Orlando,Florida,0.84,3.8,101.4,2
+137,Fort Myers,Florida,0.17,0.98,101.5,2
+138,Ithaca,New York,0.08,0.5,101.7,2
+139,Panama City,Florida,0.02,0.19,101.9,2
+140,Atlantic City,New Jersey,0.01,0.14,102.0,2
+141,Charlottesville,Virginia,0.04,0.54,102.1,2
+142,Colorado Springs,Colorado,0.21,1.39,102.2,2
+143,Bakersfield,California,0.02,0.61,102.9,2
+144,Carson City,Nevada,0.02,0.31,103.0,2
+145,Asheville,North Carolina,0.12,0.64,103.3,2
+146,Philadelphia,Pennsylvania,1.7,3.8,103.4,2
+147,Missoula,Montana,0.05,0.43,103.4,2
+148,Phoenix,Arizona,1.58,3.8,104.3,2
+149,Sarasota,Florida,0.19,1.06,104.4,2
+150,Hartford,Connecticut,0.22,1.55,104.8,2
+151,Santa Fe,New Mexico,0.06,0.46,105.1,2
+152,Minneapolis,Minnesota,1.12,3.8,105.4,2
+153,Salt Lake City,Utah,0.77,3.19,105.9,2
+154,Fresno,California,0.06,1.28,105.9,2
+155,Austin,Texas,3.2,3.8,106.6,2
+156,Baltimore,Maryland,0.92,3.8,107.0,2
+157,Reno,Nevada,0.18,0.95,107.4,2
+158,Medford,Oregon,0.02,0.47,107.5,2
+159,New Haven,Connecticut,0.16,2.1,107.7,2
+160,Concord,Missouri,0.04,0.35,108.3,2
+161,Eugene,Oregon,0.04,0.37,108.4,2
+162,Redding,California,0.02,0.18,108.7,2
+163,Fort Collins,Colorado,0.17,1.43,109.2,2
+164,Manchester,New Hampshire,0.05,0.44,109.6,2
+165,Shelton,Connecticut,0.01,0.12,109.6,2
+166,Miami,Florida,3.21,3.8,110.1,2
+167,Chico,California,0.03,0.19,110.5,2
+168,Corvallis,Oregon,0.09,0.65,110.6,2
+169,Anchorage,Alaska,0.08,0.63,110.7,2
+170,Providence,Rhode Island,0.21,1.34,111.5,2
+171,Bellingham,Washington,0.02,0.14,111.6,2
+172,Denver,Colorado,2.36,3.8,112.1,2
+173,Modesto,California,0.02,0.16,112.3,2
+174,Portland,Oregon,1.38,3.8,113.0,2
+175,Worcester,Massachusetts,0.06,0.72,113.2,2
+176,Stockton,California,0.02,0.17,113.6,2
+177,Bend,Oregon,0.1,3.21,115.9,2
+178,Boulder,Colorado,1.32,3.8,118.7,2
+179,Washington,DC,3.47,3.8,120.1,3
+180,Sacramento,California,0.5,3.8,120.3,3
+181,Seattle,Washington,3.49,3.8,124.6,3
+182,Bozeman,Montana,0.04,0.28,125.3,3
+183,New York,New York,11.43,3.8,128.0,3
+184,Boston,Massachusetts,5.5,3.8,132.6,3
+185,Truckee,California,0.02,0.22,132.8,3
+186,San Luis Obispo,California,0.06,0.43,136.1,3
+187,San Diego,California,2.64,3.8,136.2,3
+188,Salinas,California,0.01,0.1,138.3,3
+189,Los Angeles,California,11.23,3.8,140.6,4
+190,Santa Rosa,California,0.08,0.46,141.7,4
+191,Napa,California,0.03,0.23,149.6,4
+192,Honolulu,Hawaii,0.22,0.99,158.0,4
+193,Santa Cruz,California,0.23,3.8,163.9,5
+194,San Francisco,California,29.14,3.8,178.6,5
