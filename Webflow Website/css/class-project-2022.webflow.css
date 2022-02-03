@@ -31,8 +31,9 @@
 }
 
 .nav-menu {
-  margin-right: 46px;
-  padding-right: 538px;
+  margin-right: 1px;
+  padding-right: 137px;
+  padding-left: 0px;
   -webkit-transition: background-color 200ms ease;
   transition: background-color 200ms ease;
   color: #dbdbdb;
@@ -43,7 +44,8 @@
 }
 
 .brand {
-  margin-left: 540px;
+  margin-left: 69px;
+  padding-right: 231px;
 }
 
 .section-2 {
@@ -57,6 +59,8 @@
 .slider {
   min-height: 600px;
   margin-bottom: 0px;
+  background-color: #656565;
+  color: #333f48;
   -o-object-fit: fill;
   object-fit: fill;
 }
@@ -122,35 +126,49 @@
 }
 
 .slide {
+  background-color: #101214;
   background-image: url('../images/Ausitn-Tx.jpg');
   background-position: 50% 50%;
   background-size: contain;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-attachment: scroll;
+  color: #b9c5cd;
+  white-space: normal;
+  background-clip: border-box;
+  -webkit-text-fill-color: inherit;
 }
 
 .slide-2 {
+  background-color: #101214;
   background-image: url('../images/Denver.jpg');
   background-position: 50% 50%;
   background-size: contain;
+  background-repeat: no-repeat;
+  color: #101214;
 }
 
 .slide-3 {
+  background-color: #101214;
   background-image: url('../images/Miami.jpg');
   background-position: 50% 50%;
   background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .slide-4 {
+  background-color: #101214;
   background-image: url('../images/San-francisco.jpg');
   background-position: 50% 50%;
   background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .slide-5 {
+  background-color: #101214;
   background-image: url('../images/Phoenix.jpg');
   background-position: 50% 50%;
   background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .text-block {
@@ -199,7 +217,7 @@
   position: static;
   display: block;
   overflow: visible;
-  margin-top: 71px;
+  margin-top: 74px;
   margin-bottom: 0px;
   padding-right: 0px;
   padding-bottom: 74px;
@@ -210,9 +228,10 @@
 
 .container-5 {
   margin-top: 71px;
-  margin-bottom: 185px;
-  padding-bottom: 423px;
-  padding-left: 174px;
+  margin-bottom: 2px;
+  padding-bottom: 71px;
+  padding-left: 0px;
+  border: 1px none #000;
 }
 
 .section-3 {
@@ -256,7 +275,7 @@
 
 .column {
   padding-right: 0px;
-  padding-bottom: 548px;
+  padding-bottom: 0px;
   padding-left: 0px;
 }
 
@@ -395,6 +414,8 @@
   display: block;
   margin-bottom: 10px;
   color: #0f0f0f;
+  font-style: normal;
+  text-align: left;
   text-decoration: none;
 }
 
@@ -403,17 +424,37 @@
 }
 
 .div-block {
-  padding-right: 250px;
+  padding-right: 0px;
 }
 
 .div-block-2 {
-  padding-left: 250px;
+  padding-left: 0px;
+}
+
+.section-5 {
+  margin-top: 0px;
+}
+
+.section-6 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.section-7 {
+  margin-top: 37px;
+  padding-bottom: 80px;
+}
+
+.section-8 {
+  margin-bottom: 55px;
 }
 
 @media screen and (max-width: 991px) {
   .brand {
+    margin-right: 271px;
     margin-bottom: 9px;
     margin-left: -149px;
+    padding-right: 0px;
     padding-left: 0px;
   }
 
@@ -425,6 +466,7 @@
     min-height: 0px;
     margin-bottom: 0px;
     padding-bottom: 0px;
+    background-color: #101214;
     -o-object-fit: fill;
     object-fit: fill;
   }
@@ -455,6 +497,7 @@
     background-image: url('../images/Ausitn-Tx.jpg');
     background-position: 50% 50%;
     background-size: contain;
+    color: #101214;
   }
 
   .heading-2 {
@@ -475,6 +518,10 @@
 }
 
 @media screen and (max-width: 767px) {
+  .brand {
+    margin-right: 74px;
+  }
+
   .cards-section {
     padding: 40px 20px;
   }
@@ -533,6 +580,10 @@
 }
 
 @media screen and (max-width: 479px) {
+  .brand {
+    margin-right: 14px;
+  }
+
   .centered-container {
     text-align: left;
   }
@@ -580,5 +631,13 @@
 
   .footer-heading {
     margin-top: 20px;
+  }
+
+  .div-block {
+    padding-right: 0px;
+  }
+
+  .div-block-2 {
+    padding-left: 0px;
   }
 }
